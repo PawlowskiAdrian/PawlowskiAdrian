@@ -2,10 +2,10 @@
 
 ## I'm a Developer!!
 
-- 🔭 I'm currently working on something cool wink
-- 🌱 I’m currently learning Vue, JavaScript, Python
-- 🥅 2021 Goals: Contribute to Open Source projects
-- speech_balloon Ask me anything related to MetaTrader4/Technical Analysis
+- 🔭 I'm currently working on something cool :wink:
+- 🌱 I’m currently learning everything from scratch
+- 🥅 2021 Goals: Contribute to Open Source project TempleOS
+- 💬 Ask me anything related to Vue/MetaTrader4/Technical Analysis
 - 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
 - ⚡ Fun fact: AoE 2 DE is FUN
 
