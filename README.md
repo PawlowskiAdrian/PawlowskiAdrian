@@ -50,6 +50,7 @@ No Activity tracked this Week
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VUE GRID SYSTEM](https://dev.to/pawlowskiadrian/vue-grid-system-49of)
 - [ENCODE B64, PYTHON](https://dev.to/pawlowskiadrian/encode-b64-4jel)
 - [FIRST POST](https://dev.to/pawlowskiadrian/first-post-2986)
 <!-- BLOG-POST-LIST:END -->
