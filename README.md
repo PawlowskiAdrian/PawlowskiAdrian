@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian [website] 👋
+### Hi there, I'm Adrian - aka [COINFLIP][website] 👋
 
  <p align="center">
     <a href="https://github.com/PawlowskiAdrian/github-readme-stats/actions">
