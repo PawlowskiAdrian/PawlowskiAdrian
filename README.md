@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Linkedin: adrian-p-559553135](https://img.shields.io/badge/-Adrian%20pAWLOWSKI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/adrian-p-559553135/)
+[![Linkedin: adrian-p-559553135](https://img.shields.io/badge/-Adrian%20Pawlowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/adrian-p-559553135/)
 <br />
 
 ## I'm a Developer!!
