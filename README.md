@@ -1,5 +1,6 @@
-# Hi there, I'm Adrian - aka [COINFLIP][website] 👋
+# Hi there 👋
 
+[![Linkedin: adrian-p-559553135](https://img.shields.io/badge/-Adrian%20pAWLOWSKI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/adrian-p-559553135/)
 <br />
 
 ## I'm a Developer!!
@@ -61,8 +62,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-git-master.pawlowskiadrian.vercel.app/api/spotify-playing" alt="Adrian Spotify Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
-
+[<img src="https://now-playing-pawlowskiadrian.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
 
 [website]: https://vanderhedge.com
 [youtube]: https://youtube.com/bindin
