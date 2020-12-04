@@ -45,6 +45,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FIRST POST](https://dev.to/pawlowskiadrian/first-post-2986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
