@@ -59,7 +59,7 @@
 
 ---
 
-  <img align="left" alt="Adrian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PawlowskiAdrian&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Adrian's GitHub Stats" src="https://github-readme-stats-ten-black.vercel.app/api?username=PawlowskiAdrian&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 
 [website]: https://vanderhedge.com
