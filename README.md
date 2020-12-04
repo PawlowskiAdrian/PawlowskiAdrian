@@ -2,22 +2,21 @@
 
 ## I'm a Developer!!
 
-- 🔭 I just started true programming journey!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working on something cool wink
+- 🌱 I’m currently learning Vue, JavaScript, Python
 - 🥅 2021 Goals: Contribute to Open Source projects
+- speech_balloon Ask me anything related to MetaTrader4/Technical Analysis
+- 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
 - ⚡ Fun fact: AoE 2 DE is FUN
 
-### Spotify Playing 🎧
+📊 **This week I spent my time on**
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Adrian Spotify Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=PawlowskiAdrian&hide_title=true&hide_border=true&langs_count=5)
 ### Connect with me:
 
 [<img align="left" alt="vanderhedge.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="BINDIN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="PawlowskiAdrian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -52,6 +51,13 @@
   <img align="left" alt="Adrian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PawlowskiAdrian&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
+
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Adrian Spotify Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
+
 
 [website]: https://vanderhedge.com
 [youtube]: https://youtube.com/bindin
