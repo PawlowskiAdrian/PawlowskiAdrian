@@ -1,4 +1,6 @@
-### Hi there, I'm Adrian - aka [COINFLIP][website] 👋
+# Hi there, I'm Adrian - aka [COINFLIP][website] 👋
+
+<br />
 
 ## I'm a Developer!!
 
@@ -9,9 +11,14 @@
 - 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
 - ⚡ Fun fact: AoE 2 DE is FUN
 
+<br />
+
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=0c2b32de-06df-4938-9e53-4310f20f8b3c&hide_title=true&hide_border=true&langs_count=5)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="vanderhedge.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,9 +40,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
 
 ---
 
