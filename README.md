@@ -1,20 +1,5 @@
 ### Hi there, I'm Adrian - aka [COINFLIP][website] 👋
 
- <p align="center">
-    <a href="https://github.com/OmnisysTech/omnisys/actions">
-      <img alt="Tests Passing" src="https://github.com/OmnisysTech/omnisys/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/OmnisysTech/omnisys/github-readme-stats">
-      <img src="https://codecov.io/gh/PawlowskiAdrian/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/OmnisysTech/omnisys/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/OmnisysTech/omnisys/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/OmnisysTech/omnisys/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/OmnisysTech/omnisys/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
-
 ## I'm a Developer!!
 
 - 🔭 I just started true programming journey!
