@@ -1,17 +1,17 @@
 ### Hi there, I'm Adrian - aka [COINFLIP][website] 👋
 
  <p align="center">
-    <a href="https://github.com/PawlowskiAdrian/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/PawlowskiAdrian/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/OmnisysTech/omnisys/actions">
+      <img alt="Tests Passing" src="https://github.com/OmnisysTech/omnisys/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/PawlowskiAdrian/github-readme-stats">
+    <a href="https://codecov.io/gh/OmnisysTech/omnisys/github-readme-stats">
       <img src="https://codecov.io/gh/PawlowskiAdrian/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/PawlowskiAdrian/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/PawlowskiAdrian/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/OmnisysTech/omnisys/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/OmnisysTech/omnisys/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/PawlowskiAdrian/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PawlowskiAdrian/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/OmnisysTech/omnisys/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/OmnisysTech/omnisys/github-readme-stats?color=0088ff" />
     </a>
   </p>
 
@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Adrian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PawlowskiAdrian&show_icons=true&hide_border=true" />
+  <img align="left" alt="Adrian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PawlowskiAdrian&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
