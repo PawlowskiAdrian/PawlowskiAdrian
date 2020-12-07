@@ -12,17 +12,6 @@
 - 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
 - ⚡ Fun fact: AoE 2 DE is FUN
 
-<br />
-
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="vanderhedge.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
