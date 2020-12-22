@@ -39,6 +39,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculate count for elements in specific Geo location](https://dev.to/pawlowskiadrian/calculate-count-for-elements-in-specific-geo-location-1k39)
 - [VUE GRID SYSTEM](https://dev.to/pawlowskiadrian/vue-grid-system-49of)
 - [ENCODE B64, PYTHON](https://dev.to/pawlowskiadrian/encode-b64-4jel)
 - [FIRST POST](https://dev.to/pawlowskiadrian/first-post-2986)
