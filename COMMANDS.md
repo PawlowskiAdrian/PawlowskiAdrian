@@ -28,4 +28,5 @@ sudo apt-get clean
 journalctl --disk-usage
 sudo journalctl --vacuum-time=3d
 fdupes -d <directory>
+docker system prune -a
 ```
