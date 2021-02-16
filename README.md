@@ -37,17 +37,6 @@
 
 ---
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [RSA in Python](https://dev.to/pawlowskiadrian/rsa-in-python-2jo3)
-- [Calculate count for elements in specific Geo location](https://dev.to/pawlowskiadrian/calculate-count-for-elements-in-specific-geo-location-1k39)
-- [VUE GRID SYSTEM](https://dev.to/pawlowskiadrian/vue-grid-system-49of)
-- [ENCODE B64, PYTHON](https://dev.to/pawlowskiadrian/encode-b64-4jel)
-- [FIRST POST](https://dev.to/pawlowskiadrian/first-post-2986)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-pawlowskiadrian.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
