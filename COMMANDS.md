@@ -35,8 +35,9 @@ docker system prune -a
 ```
  sudo service docker stop
  sudo rsync -aP /var/lib/docker/ "/media/xxx/xxx/docker/root"
- sudo cp -rp /var/lib/docker/* "/media/xxx/xxx/docker/root/"
  sudo cp -rp /var/lib/docker/ "/media/xxx/xxx/docker/root/"
  sudo mv /var/lib/docker /var/lib/docker.old
  sudo service docker start
 ```
+modify `/lib/systemd/system/docker.service` as #1
+also `systemctl daemon-reload` after
