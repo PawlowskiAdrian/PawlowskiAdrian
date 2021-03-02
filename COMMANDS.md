@@ -41,3 +41,8 @@ docker system prune -a
 ```
 modify `/lib/systemd/system/docker.service` as #1
 also `systemctl daemon-reload` after
+
+# Other
+```
+sudo update-rc.d apache2 disable
+```
