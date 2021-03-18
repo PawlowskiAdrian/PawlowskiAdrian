@@ -6,9 +6,9 @@
 ## I'm a Developer!!
 
 - 🔭 I'm currently working on something cool :wink:
-- 🌱 I’m currently learning everything from scratch
+- 🌱 Web develop devops, Python, C++
 - 🥅 2021 Goals: Contribute to Open Source project TempleOS
-- 💬 Ask me anything related to Vue/MetaTrader4/Technical Analysis
+- 💬 Ask me anything related to Trading bots
 - 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
 - ⚡ Fun fact: AoE 2 DE is FUN
 
