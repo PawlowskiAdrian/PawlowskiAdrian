@@ -41,6 +41,6 @@
 
 ---
 
-[website]: https://vanderhedge.com
+[website]: https://quantdevlabs.com
 <!-- [youtube]: https://youtube.com/bindin -->
 [linkedin]: linkedin.com/in/adrian-p-559553135
