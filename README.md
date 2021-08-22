@@ -3,19 +3,16 @@
 [![Linkedin: adrian-p-559553135](https://img.shields.io/badge/-Adrian%20Pawlowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/adrian-p-559553135/)
 <br />
 
-## I'm a Developer!!
+## I'm a Developer
 
-- 🔭 I'm currently working on something cool :wink:
-- 🌱 Web develop devops, Python, C++
+- Web develop devops, Python
 - 🥅 2021 Goals: Contribute to Open Source project TempleOS
-- 💬 Ask me anything related to Trading bots
-- 📫 How to reach me: [@THEREISNOTWITTERACCOUNTYET](https://twitter.com/THEREISNOTWITTERACCOUNTYET)
-- ⚡ Fun fact: AoE 2 DE is FUN
+- 📫 How to reach me: [@a.pawlowski](mailto:a.pawlowski@quantdevlabs.com)
 
 ### Connect with me:
 
 [<img align="left" alt="vanderhedge.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="BINDIN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="BINDIN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="PawlowskiAdrian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -45,5 +42,5 @@
 ---
 
 [website]: https://vanderhedge.com
-[youtube]: https://youtube.com/bindin
+<!-- [youtube]: https://youtube.com/bindin -->
 [linkedin]: linkedin.com/in/adrian-p-559553135
