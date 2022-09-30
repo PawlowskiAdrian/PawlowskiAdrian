@@ -1,11 +1,11 @@
-# Hi there 👋
+# Welcome
 
 [![Linkedin: adrian-p-559553135](https://img.shields.io/badge/-Adrian%20Pawlowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/adrian-p-559553135/)
 <br />
 
-## I'm a Developer
+## About me
 
-- SysOps, DevOps, Python, Rust, Kubernetes, Kafka, MongoDB, Redis
+- SysOps, Python, Rust, Kubernetes, Kafka, SQL DBs, MongoDB, Redis
 - 📫 How to reach me: [@a.pawlowski](mailto:a.pawlowski@quantdevlabs.com)
 
 ### Connect with me:
