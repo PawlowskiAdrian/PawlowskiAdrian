@@ -32,11 +32,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-pawlowskiadrian.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
-
----
 
 [website]: https://quantdevlabs.com
 <!-- [youtube]: https://youtube.com/ -->
